@@ -6,12 +6,10 @@ labels: enhancement
 
 <!-- This document is provided as a template to get you started. Feel free to add, augment, remove, restructure and otherwise adapt the structure for what you need. -->
 
-<!-- RChip-NN TITLE -->
-<!-- Enter proposal number and title as issue title. -->
+<!-- Note: RCHIP-NN prefix and number in the title is assigned when proposal is approved. -->
 
 ## Introduction/Motivation/Abstract
-<!-- Feel free to rename this section to Introduction, Motivation, Abstract, whatever best suits your library proposal.
-Think of the introduction as serving to describe the library addition in a way that lets a reader decide if this is what they are looking for, whether they think this is the right approach to supply the extra functionality, and whether they might want to get involved. -->
+<!-- Feel free to rename this section to Introduction, Motivation, Abstract, whatever best suits your proposal. -->
 
 
 ## Motivating Examples
