@@ -204,11 +204,11 @@
 
 #### Criteria:
 
-    *   **Is the request complete?**
-    *   **Category present & Scored?**
-    *   **Feature is described with enough detail for analysis**
-    *   **Metrics to measure success are described**
-    *   **Acceptance criteria are described sufficiently.**
+    *   _Is the request complete?_
+    *   _Category present & Scored?_
+    *   _Feature is described with enough detail for analysis_
+    *   _Metrics to measure success are described_
+    *   _Acceptance criteria are described sufficiently._
 
 #### RACI
 
@@ -269,7 +269,7 @@
 
 **Once a feature has been specified and approved for analysis, the engineering team performs an analysis and proposes an implementation.  This analysis will include the following:**
 
-*   **A review of the specification / description of the feature. **
+*   **A review of the specification / description of the feature.**
 *   **High level design.**
 *   **Estimate of effort in story points.**
 *   **Tickets for the work along with the estimate are linked into the wiki page as individual ticket links (for the purpose of history tracking of scope changes)**
@@ -333,12 +333,12 @@
 
 **Once estimated, the feature should be approved for implementation.  If the feature presents as a hard fork, then approval from the validator pool is needed, to prevent a fork of the platform when the update is applied.**
 
-*   **There is a way for validators to signal their approval for the feature?**
-*   **There is a way for the CoOperative to signal their approval for the feature.**
-*   **This mechanism should be auditable and transparent.**
-*   **There needs to be some measure of a number of votes / approvals to signal consent.**
-*   **The Approval Committee should set the threshold for the number of votes to signal consent.**
-*   **Recommend that voting take place inside an issue, where persons can 'vote' on the approval for implementation.  The votes will be tallied & an image captured on the implementation wiki page.**
+*  **There is a way for validators to signal their approval for the feature?**
+*  **There is a way for the CoOperative to signal their approval for the feature.**
+*  **This mechanism should be auditable and transparent.**
+*  **There needs to be some measure of a number of votes / approvals to signal consent.**
+*  **The Approval Committee should set the threshold for the number of votes to signal consent.**
+*  **Recommend that voting take place inside an issue, where persons can 'vote' on the approval for implementation.  The votes will be tallied & an image captured on the implementation wiki page.**
 
 #### RACI
 
@@ -400,7 +400,7 @@
 ### Prioritization 
 
 
-**Once the above items have taken place, the feature will be slated into a release vehicle and the tickets will be assigned to a sprint.  The prioritization of the feature will depend on its priority relative to other items on the backlog.   Prioritization of work is a challenge.  Recommendation is that all RCHIPs be categorized into 1 of these categories, and given a relative weight in terms of value. **
+**Once the above items have taken place, the feature will be slated into a release vehicle and the tickets will be assigned to a sprint.  The prioritization of the feature will depend on its priority relative to other items on the backlog.   Prioritization of work is a challenge.  Recommendation is that all RCHIPs be categorized into 1 of these categories, and given a relative weight in terms of value.**
 
 
 #### Strategic Categories
