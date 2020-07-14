@@ -1,20 +1,4 @@
-
 # RChain Improvement Process (RCHIP Process) - Draft
-
-
-    **Created by **
-
-
-    **[Medha Parlikar (Unlicensed)](https://rchain.atlassian.net/wiki/people/557058:1aa9d7d9-51f2-419e-a5b0-47773dfc7e6a?ref=confluence&src=profilecard)**
-
-
-    **Last updated [May 23, 2020](https://rchain.atlassian.net/wiki/pages/diffpagesbyversion.action?pageId=564068682&selectedPageVersions=18&selectedPageVersions=19) by **
-
-
-    **[Dan Connolly](https://rchain.atlassian.net/wiki/people/557058:1bdbe0bb-1fbb-4602-974d-9bd6114fe760?ref=confluence&src=profilecard)**
-
-
-    
 
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
