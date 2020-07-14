@@ -204,11 +204,11 @@
 
 #### Criteria:
 
-    *   _Is the request complete?_
-    *   _Category present & Scored?_
-    *   _Feature is described with enough detail for analysis_
-    *   _Metrics to measure success are described_
-    *   _Acceptance criteria are described sufficiently._
+*   **Is the request complete?**
+*   **Category present & Scored?**
+*   **Feature is described with enough detail for analysis**
+*   **Metrics to measure success are described**
+*   **Acceptance criteria are described sufficiently.**
 
 #### RACI
 
