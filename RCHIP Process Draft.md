@@ -1,10 +1,5 @@
 # RChain Improvement Process (RCHIP Process) - Draft
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: error handling inline image </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-**[Analytics](https://rchain.atlassian.net/plugins/servlet/ac/com.addonengine.analytics/com.addonengine.analytics__analytics-content-byline-item?page.id=564068682&space.key=CORE&content.id=564068682&content.version=19&page.type=page&page.title=RChain%20Improvement%20Process%20%28RCHIP%20Process%29%20-%20Draft&space.id=65714&content.type=page&page.version=19)**
-
-
 **This document seeks to propose a process by which updates to the RChain blockchain are defined, approved, prioritized and released.**
 
 
