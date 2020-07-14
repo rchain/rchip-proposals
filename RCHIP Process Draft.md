@@ -6,8 +6,7 @@
 **See [RCHIP issue #14](https://github.com/rchain/rchip-proposals/issues/14) for more recent discussion.**
 
 
-## 
-Tooling:
+## Tooling:
 
 
 **The RChain feature backlog is captured in Jira at: [http://rchain.atlassian.net](http://rchain.atlassian.net/) at: [https://rchain.atlassian.net/secure/RapidBoard.jspa?projectKey=RIP&rapidView=19&view=planning.nodetail](https://rchain.atlassian.net/secure/RapidBoard.jspa?projectKey=RIP&rapidView=19&view=planning.nodetail)**
@@ -16,8 +15,7 @@ Tooling:
 **The RChain Improvement Proposals are captured in Confluence at: [RChain Improvement Proposals](https://rchain.atlassian.net/wiki/spaces/RIP)**
 
 
-## 
-Actors:
+## Actors:
 
 
 <table>
@@ -120,12 +118,10 @@ Actors:
 
 
 
-## 
-Process:
+## Process:
 
 
-### 
-Specify the Feature 
+### Specify the Feature 
 
 
 **A feature request should be proposed in written format.  For small features, a Jira Story issue is suitable.**
@@ -134,8 +130,7 @@ Specify the Feature
 **If a feature cannot be implemented within a single component (Interpreter, Consensus, Node), then an Epic is required.  An Epic should contain a link to a document that describes the feature with enough specificity that an Engineering plan can be drafted and estimation can take place.**
 
 
-#### 
-**Required Information:**
+#### Required Information:
 
 
 
@@ -147,8 +142,7 @@ Specify the Feature
     *   **Are users blocked from doing something without the feature? Or is this a UX change?**
     *   **Are there contractual obligations related to the feature? (This alone won't bump priority. Contracts should never be signed against un-implemented features)**
 
-#### 
-**RACI**
+#### RACI
 
 
 <table>
@@ -202,24 +196,21 @@ Specify the Feature
 
 
 
-### 
-Approval for Analysis
+### Approval for Analysis
 
 
 **Proposed features should be vetted for completeness appropriateness and value before being analyzed.  Analysis is a costly process, and should not be applied to all proposed features without some kind of prior vetting.**
 
 
-#### 
-**Criteria:**
+#### Criteria:
 
-*   **Is the request complete?**
+    *   **Is the request complete?**
     *   **Category present & Scored?**
     *   **Feature is described with enough detail for analysis**
     *   **Metrics to measure success are described**
     *   **Acceptance criteria are described sufficiently.**
 
-#### 
-**RACI**
+#### RACI
 
 
 <table>
@@ -273,8 +264,7 @@ Approval for Analysis
 
 
 
-### 
-Analysis & Estimation
+### Analysis & Estimation
 
 
 **Once a feature has been specified and approved for analysis, the engineering team performs an analysis and proposes an implementation.  This analysis will include the following:**
@@ -287,8 +277,7 @@ Analysis & Estimation
 **This part of the process will likely involve a good deal of back and forth between the requestor and the development team, until agreement on the details of the feature is reached.  Additionally, the feature may be re-scoped or re-sized as a result of these discussions.**
 
 
-#### 
-**RACI**
+#### RACI
 
 
 <table>
@@ -339,8 +328,7 @@ Analysis & Estimation
 
 
 
-### 
-Approval for Implementation
+### Approval for Implementation
 
 
 **Once estimated, the feature should be approved for implementation.  If the feature presents as a hard fork, then approval from the validator pool is needed, to prevent a fork of the platform when the update is applied.**
@@ -352,8 +340,7 @@ Approval for Implementation
 *   **The Approval Committee should set the threshold for the number of votes to signal consent.**
 *   **Recommend that voting take place inside an issue, where persons can 'vote' on the approval for implementation.  The votes will be tallied & an image captured on the implementation wiki page.**
 
-#### 
-**RACI**
+#### RACI
 
 
 <table>
@@ -410,15 +397,13 @@ Approval for Implementation
 
 
 
-### 
-Prioritization 
+### Prioritization 
 
 
 **Once the above items have taken place, the feature will be slated into a release vehicle and the tickets will be assigned to a sprint.  The prioritization of the feature will depend on its priority relative to other items on the backlog.   Prioritization of work is a challenge.  Recommendation is that all RCHIPs be categorized into 1 of these categories, and given a relative weight in terms of value. **
 
 
-#### 
-**Strategic Categories**
+#### Strategic Categories
 
 
 <table>
@@ -514,8 +499,7 @@ Prioritization
 
 
 
-#### 
-**Prioritization Process**
+#### Prioritization Process
 
 
 **The Board of Directors should define the goals / theme for the platform.   The goals for the platform should be set annually. Doing this more frequently isn't productive.  Examples of such goals are:**
@@ -530,11 +514,10 @@ Prioritization
 **Recommend that no more than 2 goals be set (1 for platform, 1 for CoOperative) for any given period.  Any more than that, creates confusion.  Recommend that the goal be annual.  Any shorter than that, results in the same effect as having too many goals.**
 
 
-**Using this theme, a prioritization committee can use the [https://articles.uie.com/kj_technique/#close](https://articles.uie.com/kj_technique/#close) technique to prioritize the RCHIPs and communicate the priorities to the Development Team PM.   **
+**Using this theme, a prioritization committee can use the [https://articles.uie.com/kj_technique/#close](https://articles.uie.com/kj_technique/#close) technique to prioritize the RCHIPs and communicate the priorities to the Development Team PM.**
 
 
-#### 
-**RACI**
+#### RACI
 
 
 <table>
@@ -591,21 +574,19 @@ Prioritization
 
 
 
-### 
-Implementation
+### Implementation
 
 
 **The feature is implemented & Tested by Development**
 
 
-### 
-Acceptance testing & Release readiness
+### Acceptance testing & Release readiness
 
 
 **The feature is deployed to the public test net for acceptance testing.  Stakeholders have the opportunity to examine the patch on their own systems.**
 
 
-**The acceptance testing process must also include release readiness criteria.  **
+**The acceptance testing process must also include release readiness criteria.**
 
 
 <table>
@@ -665,8 +646,7 @@ Acceptance testing & Release readiness
 
 
 
-### 
-Release
+### Release
 
 
 **The feature (release package) is deployed to the public network.**
