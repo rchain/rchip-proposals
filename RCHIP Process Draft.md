@@ -12,7 +12,7 @@
 **The RChain feature backlog is captured in Jira at: [http://rchain.atlassian.net](http://rchain.atlassian.net/) at: [https://rchain.atlassian.net/secure/RapidBoard.jspa?projectKey=RIP&rapidView=19&view=planning.nodetail](https://rchain.atlassian.net/secure/RapidBoard.jspa?projectKey=RIP&rapidView=19&view=planning.nodetail)**
 
 
-**The RChain Improvement Proposals are captured in Confluence at: [RChain Improvement Proposals](https://rchain.atlassian.net/wiki/spaces/RIP)**
+**The RChain Improvement Proposals are captured in Confluence at: [RChain Improvement Proposals](https://github.com/rchain/rchip-proposals/issues)**
 
 
 ## Actors:
@@ -32,7 +32,7 @@
 <strong>Feature Requestor</strong>
    </td>
    <td>
-<strong>This is someone or a group of someones who have an idea for an improvement to the RChain platform.</strong>
+<strong>This is someone or a group of someones who have an idea for an improvement to the RChain platform. They should complete all the information per the relevant issue template. </strong>
    </td>
   </tr>
   <tr>
@@ -53,7 +53,14 @@
 <strong>If the RCHIP isn't ready, the Editorial Committee will send it back to the Feature Requestor for revision, with specific instructions.</strong>
 <p>
 
+<strong>The Editorial Committee shall ensure that the submissions comply with the requirements of the relevant templates. Preferably, they should work on tools/parsers to enforce this automatically, similar to Ethereum etc.</strong>
+<p>
+
+<strong>The Editorial Committee shall from time to time review and improve the templates and proposal submission process.</strong>
+<p>
+
 <strong>Once the RCHIP is ready for the consideration for the next step the Editorial Committee will continue to support the RCHIP through the process.</strong>
+
 </li>
 </ul>
    </td>
