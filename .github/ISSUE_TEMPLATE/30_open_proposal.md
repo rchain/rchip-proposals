@@ -1,5 +1,5 @@
 ---
-name: Open RChain Improvement Proposal
+name: Open RChain Platform Improvement Proposal
 about: Suggest an enhancement related RChain platform
 labels: enhancement
 ---
